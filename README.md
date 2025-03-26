@@ -36,10 +36,10 @@ This repository contains various resources for enhancing your Kerbal Space Progr
 ## 🔧 Recommended Mod List
 
 Essential mods for kOS development:
-- [kOS (Kerbal Operating System)](https://forum.kerbalspaceprogram.com/index.php?/topic/182200-181-ksp-kos-ksp-kos-v130/)
-- [MechJeb 2](https://forum.kerbalspaceprogram.com/index.php?/topic/175277-181-mechjeb-2-801/) (for reference and comparison)
-- [Kerbal Engineer Redux](https://forum.kerbalspaceprogram.com/index.php?/topic/182679-181-kerbal-engineer-redux-1415/) (flight data)
-- [Module Manager](https://forum.kerbalspaceprogram.com/index.php?/topic/50533-18x-module-manager-414-july-31st-2020/) (mod compatibility)
+- [kOS (Kerbal Operating System)](https://forum.kerbalspaceprogram.com/topic/165628-ksp-112x-kos-v1400-kos-scriptable-autopilot-system/)
+- [MechJeb 2](https://github.com/MuMech/MechJeb2) (for reference and comparison)
+- [Kerbal Engineer Redux](https://forum.kerbalspaceprogram.com/topic/17833-130-kerbal-engineer-redux-1130-2017-05-28/) (flight data)
+- [Module Manager](https://forum.kerbalspaceprogram.com/topic/50533-18x-112x-module-manager-423-july-03th-2023-fireworks-season/) (mod compatibility)
 
 ## 💻 Installation
 
